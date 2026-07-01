@@ -7,4 +7,6 @@ This tool was built using C++.
 So you need a C++ project. Then copy-paste it or move it to your project and delete the original main.
 It's one page, so that will be easy.
 
+then the Explination is inside it.
+
 Thank you for reading :)
